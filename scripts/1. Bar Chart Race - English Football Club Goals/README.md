@@ -1,3 +1,3 @@
-## Source code
+# Source code
 
-This is a bulk script to produce the visualization. If you want to see the process behind this visualization, please visit in my Google Colab project at https://colab.research.google.com/drive/1Lso0UwniZvNWpe9SYzoOVqsF8qH-AUgJ#scrollTo=w6Jfdmn_m1SE
+This is a bulk script to produce the visualization. If you want to see the process behind this visualization, please visit in my Google Colab project at <a href='https://colab.research.google.com/drive/1Lso0UwniZvNWpe9SYzoOVqsF8qH-AUgJ#scrollTo=w6Jfdmn_m1SE'>Matplotlib Code</a>  and <a href='https://colab.research.google.com/drive/1ph5wF-ztUQlmuGiN1MGDY_hV7AdH6ffk#scrollTo=oI73cO3MqBir'>Bar Chart Race Code</a>
